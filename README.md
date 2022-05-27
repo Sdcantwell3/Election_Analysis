@@ -41,7 +41,5 @@ The Analysis of the election show that:
   - Denver county recieved 82.8% of the total vote accounting for 306,055 votes.
   - Araphahoe county recieved 6.7% of the total vote accounting for 24,801 votes.
 
-## Challenge Overview
-
 ## Challange Summary
-  
+  This code can definitely be used again for othe elections.  It would be able to handle a lot more data and more candidates as well.  
