@@ -39,7 +39,7 @@ with open(file_to_load) as election_data:
     # For each row in the CSV file.
     for row in reader:
         # Add to the total vote count
-        total_votes = total_votes + 1
+        total_votes += 1
         # Get the candidate name from each row.
         candidate_name = row[2]
 
@@ -80,12 +80,14 @@ with open(file_to_save, "w") as txt_file:
      # 6a: Write a for loop to get the county from the county dictionary.
     for county in county_votes_dict:
         # 6b: Retrieve the county vote count.
-        county_votes = county_votes_dict.get(county)    
+        county_votes = county_votes_dict[county]  
+          
         # 6c: Calculate the percentage of votes for the county.
         county_vote_percentage = float(county_votes) / float(total_votes) * 100
+
          # 6d: Print the county results to the terminal. (Print statement includes Current County, % of Total Votes, AND its Total Votes to the command line)
         current_county_results = (
-          f"{counties}: {county_vote_percentage:.1f}% ({county_votes:,})\n")
+          f"{county}: {county_vote_percentage:.1f}% ({county_votes:,})\n")
 
         print(current_county_results, end="")
 
