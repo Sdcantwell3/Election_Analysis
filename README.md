@@ -17,7 +17,7 @@ A Colorado Boared of elections employee has give me the following tasks to compl
 
 ## Code Used
  1. To print the Total Votes to the therminal I used the following lines of code.
-
+![Screenshot 2022-05-27 011214](https://user-images.githubusercontent.com/104606589/170650215-4369bcb6-5ff0-42e1-b4b3-587457942244.png)
     
  ## Summary
 
