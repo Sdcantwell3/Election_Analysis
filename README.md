@@ -15,6 +15,9 @@ A Colorado Boared of elections employee has give me the following tasks to compl
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
+## Code Used
+ 1. To print the Total Votes to the therminal I used the following lines of code.
+
 ## Summary
 
 The Analysis of the election show that:
@@ -28,7 +31,11 @@ The Analysis of the election show that:
   - Diana DeGette received 73.8% of the vote and 272,892 total votes.
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 total votes.
 - The winner of the election was:
-  = Diana DeGEtte, who received 73.8% of the vote and 272,892 total votes.
+  - Diana DeGette, who received 73.8% of the vote and 272,892 total votes.
+- The breakdown by count is outlined below.
+  - Jefferson county recieved 10.5% of the total vote accounting for 38,855 votes.
+  - Denver county recieved 82.8% of the total vote accounting for 306,055 votes.
+  - Araphahoe county recieved 6.7% of the total vote accounting for 24,801 votes.
 
 ## Challenge Overview
 
