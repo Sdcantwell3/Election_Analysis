@@ -18,7 +18,8 @@ A Colorado Boared of elections employee has give me the following tasks to compl
 ## Code Used
  1. To print the Total Votes to the therminal I used the following lines of code.
 
-## Summary
+    
+ ## Summary
 
 The Analysis of the election show that:
 - There were 369,711 votes cast in the election.
