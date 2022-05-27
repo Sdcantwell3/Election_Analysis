@@ -16,12 +16,11 @@ A Colorado Boared of elections employee has give me the following tasks to compl
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Code Used
-The code below printed the Total Votes for the election to the terminal and to a external Text file.
+Below is a sample of some of the code that is in the final product.  This code was used to print the Total Votes to the text file and terminal.
+
 ![Screenshot 2022-05-27 011214](https://user-images.githubusercontent.com/104606589/170650215-4369bcb6-5ff0-42e1-b4b3-587457942244.png)
 
 
-
-    
  ## Summary
 
 The Analysis of the election show that:
